@@ -1178,3 +1178,9 @@ html.force--consent.show--consent body {
 .cc_div.ie #cs-ov {
   filter: alpha(opacity=80);
 }
+#arc-widget-launcher-iframe,
+#arc-widget,
+#arc-widget-container {
+  visibility: hidden !important;
+}
+
